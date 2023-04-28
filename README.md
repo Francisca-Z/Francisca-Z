@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Francisca-Z
-- 👀 I’m interested in climate models, climate simulations and regional climate models
-- 🌱 I’m currently learning climate downscaling techniques
+- 👋 Hi
 
 <!---
 Francisca-Z/Francisca-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
